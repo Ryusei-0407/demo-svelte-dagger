@@ -23,7 +23,7 @@ dagger.#Plan & {
 				exclude: [
 					"README.md",
 					"_build",
-					"demo-svelte-dagger.cue",
+					"main.cue",
 					"node_modules",
 				]
 			}
